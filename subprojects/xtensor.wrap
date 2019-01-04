@@ -1,0 +1,5 @@
+[wrap-git]
+directory = xtensor
+url = https://github.com/jeandet/xtensor.git
+revision = meson
+
